@@ -1,4 +1,4 @@
-# English version
+# tzsp2pcap - ENG
 
 This project converts TZSP packets into a virtual network interface, allowing live traffic analysis with any network monitoring or packet analysis tool.
 
@@ -41,7 +41,7 @@ Launch the program (you may need root privileges):
    ```
 
 ---
-# tzsp2pcap
+# tzsp2pcap - ITA
 
 Questo progetto converte pacchetti TZSP in un'interfaccia di rete virtuale, permettendo l'analisi live del traffico tramite strumenti di network monitoring e packet analysis.
 
