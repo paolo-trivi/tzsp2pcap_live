@@ -124,13 +124,6 @@ Lancia il programma (potresti aver bisogno dei permessi di root):
       suricata -c /etc/suricata/suricata.yaml -i tzsp0
       ```
 
-   ### Notes
-   - Do not edit `tzsp2pcap_live.c` directly.
-   - If using Suricata, update rules with `suricata-update` or download them manually.
-
-   ### License
-   BSD or as specified in the sources.
-
    ---
 
    ## Italiano
@@ -174,10 +167,3 @@ Lancia il programma (potresti aver bisogno dei permessi di root):
       # oppure
       suricata -c /etc/suricata/suricata.yaml -i tzsp0
       ```
-
-   ### Note
-   - Non modificare direttamente `tzsp2pcap_live.c`.
-   - Se usi Suricata, per aggiornare le regole puoi usare `suricata-update` o scaricarle manualmente.
-
-   ### Licenza
-   BSD o come specificato nei sorgenti.
